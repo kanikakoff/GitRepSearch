@@ -2,6 +2,9 @@
 
 A simple web application that allows users to search for GitHub repositories based on keywords. It utilizes the GitHub API to fetch and display repository information.
 
+Access it here at: https://kanikakoff.github.io/GitRepSearch/
+
+
 ## Features
 
 - **Search for Repositories:** Input a keyword to search for GitHub repositories.
